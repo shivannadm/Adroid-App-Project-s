@@ -1,7 +1,6 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-
 package com.android.myloginpage;
 
 public final class BuildConfig {
