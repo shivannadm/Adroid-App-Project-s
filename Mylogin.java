@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         //admin and admin
         loginbtn.setOnClickListener(new View.OnClickListener(){
 
-            public void onClick(View v){
+            public void onClick(View v) {
             if(username.getText().toString().equals("admin") && password.getText().toString().equals("admin")){
                 //correct
                 Toast.makeText(MainActivity.this,"LOGIN SUCCESFUL",Toast.LENGTH_SHORT).show();
